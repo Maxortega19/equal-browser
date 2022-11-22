@@ -66,6 +66,9 @@
 <br>
 
 <div align="center">
+<a href="https://youtu.be/8jPZksoCf5M" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+</a></div>
 
-</div>
+
 
