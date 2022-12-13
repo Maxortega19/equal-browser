@@ -42,6 +42,12 @@
 ### <div align="center" style="color: #667EEA">Video</div>
 #### <div align="center">En esta sección se encuentra el link al video explicativo del funcionamiento del navegador por medio del prototipo realizado con Figma</div>
 
+<br>
+
+<div align="center">
+<a href="https://www.youtube.com/watch?v=TOhSqtKAVT0" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+</a></div>
 
 <br>
 
